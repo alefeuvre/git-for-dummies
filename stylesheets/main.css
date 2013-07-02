@@ -1,0 +1,22 @@
+body {
+  font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif; /* Font stack from http://css-tricks.com/snippets/css/font-stacks/ */
+  background-color: #DDD;
+}
+main {
+  width: 40em;
+  margin: auto;
+  padding: 1em 3em;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0.5em 0.5em 1em rgba(0,0,0,0.2);
+}
+#logos img {
+  height: 4em;
+  vertical-align: middle;
+}
+#logos img:first-child {
+  margin-right: 2em;
+}
+#logos img:last-child {
+  height: 2em;
+}
