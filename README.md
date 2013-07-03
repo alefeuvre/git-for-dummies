@@ -1,6 +1,6 @@
 Git for dummies (by a dummy)
 ============================
 
-Smallish repo used as a sandbox in my ‘Git for dummies (by a dummy)’ class.
+Smallish repo used as a sandbox in my ï¿½Git for Super Heros by a dummy)ï¿½ class.
 
-If you’re not taking this class, there’s no reason you’d want to clone or watch this repo. It’s boring as hell!
+If youï¿½re not taking this class, thereï¿½s no reason youï¿½d want to clone or watch this repo. Itï¿½s boring as hell!
